@@ -1,7 +1,7 @@
 <?php
 /**
  * @name CPU_Info
- * @author Hana
+ * @author Security-Development
  * @main CPU_Info\CPU_Info
  * @version 0.1.0
  * @api 3.13.0
